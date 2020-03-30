@@ -1,0 +1,11 @@
+C:\c#_code\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.exe
+C:\c#_code\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.deps.json
+C:\c#_code\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.runtimeconfig.json
+C:\c#_code\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.runtimeconfig.dev.json
+C:\c#_code\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.dll
+C:\c#_code\WhileLoopsBaseCamp\bin\Debug\netcoreapp3.1\WhileLoopsBaseCamp.pdb
+C:\c#_code\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.csprojAssemblyReference.cache
+C:\c#_code\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.AssemblyInfoInputs.cache
+C:\c#_code\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.AssemblyInfo.cs
+C:\c#_code\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.dll
+C:\c#_code\WhileLoopsBaseCamp\obj\Debug\netcoreapp3.1\WhileLoopsBaseCamp.pdb
